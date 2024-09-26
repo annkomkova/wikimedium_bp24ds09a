@@ -123,6 +123,6 @@ article blockquote::before {
   left: -20px;
   top: 0;
 }
-article .redBlockquote::before {
+/* article .redBlockquote::before {
   background-color: red;
-}
+} */
